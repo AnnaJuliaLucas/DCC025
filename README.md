@@ -1,3 +1,3 @@
-# DCC025
+# DCC025 - Programação Orientada a Objetos
 
-Conteúdo desenvolvido acerca de aulas e estudos de Programação Orientada a Objetos
+Conteúdo desenvolvido acerca de aulas e estudos de implementação de algoritmos utilizando linguagem orientada a objetos, estrutura de dados básica e avançada, implementação dos principais conceitos de orientação a objetos: definição de classes e instanciação de objetos, encapsulamento, herança, polimorfismo, interfaces, tratamento de exceções, utilização de coleções. IDEs de desenvolvimento avançado de aplicativos desktop, manipulação de componentes de interface gráfica (propriedades e eventos relacionados), conexão com bancos de dados relacionais. Geração de documentação.
